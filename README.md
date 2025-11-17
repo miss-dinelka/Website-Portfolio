@@ -20,10 +20,9 @@ I was recently selected for the **UN Women in STEM Program**, which strengthened
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML5, CSS, JavaScript.
+- **Frontend:** HTML, CSS, JavaScript.
 - **Tools:** GitHub Pages, VS Code  
 - **Other Skills:** Java, SQL
 
 ---
-## 📂 Folder Structure
 
